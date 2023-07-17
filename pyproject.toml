@@ -5,14 +5,14 @@ description = ""
 authors = ["pythoninthegrass <4097471+pythoninthegrass@users.noreply.github.com>"]
 
 [tool.poetry.dependencies]
-python = "3.9.17"
+python = "3.10.12"
 streamlit-lottie = "0.0.2"
 streamlit = "1.3.0"
 requests = "2.24.0"
 Pillow = "8.4.0"
 protobuf = "~=3.19.0"
 watchdog = "^2.1.8"
-altair = "*"
+altair = "4.1.0"
 
 [tool.poetry.dev-dependencies]
 
