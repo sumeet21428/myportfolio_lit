@@ -32,7 +32,7 @@ img_niti4 = Image.open("images/img5 copy.png")
 st.subheader("Hi, I'm Sumeet. :wave:")
 st.title("Frontend Developer | CS Junior @ IIIT Delhi")
 st.write("I am an upcoming Junior at IIIT Delhi studying Computer Science and Social Sciences. I am deeply invested in working around Front-end dev related techstacks and making new and innovative websites. When i'm not coding, im deeply passionate about Wildlife Photography. I love participating in hackathons and projects with other people. Feel free to reach out if you want to collaborate on the same!")
-st.write("[My Resume :)](https://drive.google.com/file/d/1erdhQhne7pBWKkrvPvs6F-Mdpl_HB1i4/view?usp=sharing)")
+# st.write("[My Resume :)](https://drive.google.com/file/d/1erdhQhne7pBWKkrvPvs6F-Mdpl_HB1i4/view?usp=sharing)")
 
 # Previous Experiences:
 with st.container():
